@@ -1,2 +1,3 @@
-# my-webpage
-This is the repository of my personal webpage
+# my-personal-webpage
+
+This is the repository to my personal web-page. 

@@ -1,0 +1,30 @@
+# Top Menu
+topmenu:
+
+- title: Home
+  url: ""
+
+- title: About
+  url: "about/"
+
+- title: Publications
+  url: "publications/"
+
+- title: Teaching
+  url: "teaching/"
+
+- title: Contact
+  url: "contact/"
+
+
+# Footer Menu
+footermenu:
+
+- title: Home
+  url: ""
+
+- title: Privacy Policy
+  url: "privacy-policy/"
+
+- title: Contact
+  url: "contact/"

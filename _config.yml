@@ -1,0 +1,50 @@
+title: "Jonas'  Website"
+email: email@gmail.com
+timezone: UTC
+baseurl: "/affiliates-jekyll-theme"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'my-website'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  jonas:
+    name: Jonas
+    display_name: Jonas
+    avatar: 'assets/images/me.jpg'
+    email: 
+    web: 
+    twitter: 
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Social
+social:
+  github: https://github.com/j-ehrhardt
+  linkedin: https://de.linkedin.com/in/jonas-m-ehrhardt
+  google-scholar: https://scholar.google.com/citations?user=lv_VJRgAAAAJ&hl=de
+  twitter: https://twitter.com/j_m_ehrhardt
+  orchid: https://orcid.org/0000-0001-5023-839X
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
