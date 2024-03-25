@@ -1,7 +1,7 @@
 title: "Jonas'  Website"
 email: email@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -37,7 +37,7 @@ authors:
 social:
   github: https://github.com/j-ehrhardt
   linkedin: https://de.linkedin.com/in/jonas-m-ehrhardt
-  google-scholar: https://scholar.google.com/citations?user=lv_VJRgAAAAJ&hl=de
+  google-scholar: https://scholar.google.com/citations?user=lv_VJRgAAAAJ&hl=en
   twitter: https://twitter.com/j_m_ehrhardt
   orchid: https://orcid.org/0000-0001-5023-839X
 
