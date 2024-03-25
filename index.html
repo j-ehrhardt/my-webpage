@@ -33,7 +33,9 @@ background: '/img/bg-index.jpg'
 
 
     {% for page in site.pages %}
-    {% if page.url contains '/publications/' or page.url contains '/teaching/' or page.url contains '/contact/' or page.url contains '/research/'%} <!-- or page.url contains '/contact/' %} -->
+    {% if page.url contains '/publications/' or page.url contains '/teaching/' %}
+    
+    <!-- or page.url contains '/contact/' or page.url contains '/research/'%} --> <!-- or page.url contains '/contact/' %} -->
     <div class="col-md-6 mb-4">
       <div class="card">
         <a href="{{ page.url | absolute_url }}">
