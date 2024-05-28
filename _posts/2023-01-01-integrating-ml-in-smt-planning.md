@@ -17,6 +17,8 @@ The code is publicly available on GitHub.
 
 [Access the paper here](https://doi.org/10.1007/978-3-031-50485-3_33)
 
+[Access GitHub repo here](https://github.com/RHeesch/rainer)
+
 **Citation:** Heesch, R., Ehrhardt, J., Niggemann, O. (2024). Integrating Machine Learning into an SMT-Based Planning Approach for Production Planning in Cyber-Physical Production Systems. In: *Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham*. doi: [10.1007/978-3-031-50485-3_33](https://doi.org/10.1007/978-3-031-50485-3_33).
 
 
