@@ -11,4 +11,6 @@ To improve the autonomy of Cyber-Physical Production Systems (CPPS), a growing n
 
 [Access the paper here](https://doi.org/10.1109/ETFA52439.2022.9921546)
 
+[Access GitHub repo here](https://github.com/j-ehrhardt/benchmark-for-diagnosis-reconf-planning)
+
 **Citation:** J. Ehrhardt, M. Ramonat, R. Heesch, K. Balzereit, A. Diedrich, and O. Niggemann, “An AI benchmark for Diagnosis, Reconfiguration &amp; Planning,” *2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, Sep. 06, 2022*. doi: [10.1109/etfa52439.2022.9921546](https://doi.org/10.1109/ETFA52439.2022.9921546). 
