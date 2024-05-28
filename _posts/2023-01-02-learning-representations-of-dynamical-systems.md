@@ -18,4 +18,6 @@ Our model outperforms baseline models like multilayer perceptrons and variationa
 
 [Access the paper here](https://doi.org/10.1007/978-3-031-50485-3_34)
 
+[Access GitHub repo here](https://github.com/j-ehrhardt/peppr)
+
 **Citation:** Ehrhardt, J., Heesch, R., Niggemann, O. (2024). Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems. In: *Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham*. [10.1007/978-3-031-50485-3_34](https://doi.org/10.1007/978-3-031-50485-3_34).
