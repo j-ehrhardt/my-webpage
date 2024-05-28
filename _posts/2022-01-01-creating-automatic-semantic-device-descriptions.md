@@ -12,5 +12,7 @@ Semantic device descriptions (SDD) are formal models that map signals from field
 
 [Access the paper here](https://www.sampe-europe.org/about/library/)
 
+[Access GitHub repo here](https://github.com/j-ehrhardt/sampe-2022-automatic-semantic-device-description)
+
 **Citation:** J. Ehrhardt, A. Nordhausen, Alexander Guhl, Marcel Lewke, Constantin Hildebrandt, Oliver Niggemann, “Creating Automatic Semantic Device Descriptions for Brownfield Industrial Robots,” *SAMPE Europe Conference*.
 
