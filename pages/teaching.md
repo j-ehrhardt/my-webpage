@@ -24,3 +24,7 @@ Here is an overview on the courses I tutored or taught, so far:
 - Explorative Data Analysis 
 - Modeling with Supervised and Unsupervised Machine Learning
 - Evaluation of Machine Learning Models
+
+## Lecture: AI Crashcourse (individual lectures from the series)
+- Fundamentals of Data and Big Data
+- Representation Learning and Transfer Learning
