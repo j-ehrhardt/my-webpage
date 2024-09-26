@@ -59,6 +59,7 @@ Here, you can find some information on courses I tutored. For more information h
 
 ### 2024
 
+- Labs: Data Science
 - Labs: Programming in C & Algorithms I
 
 
@@ -66,7 +67,7 @@ Here, you can find some information on courses I tutored. For more information h
 
 - Labs: Data Science
 - Labs: Programming in C & Algorithms I 
-
+- Lecture: AI Crashcourse (individual lectures of the series) 
 
 ### 2022 
 
