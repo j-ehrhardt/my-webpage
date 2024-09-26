@@ -41,14 +41,15 @@ Here, you can find some information on my activities in the research community.
 For more information about my publications, visit my [publications page]({{site.baseurl}}/publications/).
 
 ### 2024
-- Program committee ML-DE (Machine Learning meets Differential Equations) Workshop at ECAI 2024, Santiage de Compostella: [link](https://mlde-ecai-2024.github.io/)
-- Program committee HYDRA (Hybrid Models for Coupling Deductive and Inductive Reasoning) Workshop at ECAI 2024, Santiago de Compostella: [link](https://sites.google.com/unical.it/hydra-2024/home-page)
-- Program committee ML4CPS Conference 2024, Berlin: [link](https://www.hsu-hh.de/imb/en/ml4cps)
+- Program Committee IEEE Conference on Emerging Technologies and Factory Automation 2024, Padova. 
+- Program Committee ML-DE (Machine Learning meets Differential Equations) Workshop at ECAI 2024, Santiage de Compostella: [link](https://mlde-ecai-2024.github.io/)
+- Program Committee HYDRA (Hybrid Models for Coupling Deductive and Inductive Reasoning) Workshop at ECAI 2024, Santiago de Compostella: [link](https://sites.google.com/unical.it/hydra-2024/home-page)
+- Program Committee ML4CPS Conference 2024, Berlin: [link](https://www.hsu-hh.de/imb/en/ml4cps)
 - Invitee Dagstuhl Seminar 24031 - *Fusing Causality, Reasoning, and Learning for Fault Management and Diagnosis*: [link](http://www.dagstuhl.de/24031)
-- Organizing committee CAIPI'24 Workshop - *Planning for Cyber-Physical Systems* @ AAAI 2024, Vancouver: [link](https://aaai.org/aaai-conference/aaai-24-workshop-list/#ws07)
+- Organizing Committee CAIPI'24 Workshop - *Planning for Cyber-Physical Systems* @ AAAI 2024, Vancouver: [link](https://aaai.org/aaai-conference/aaai-24-workshop-list/#ws07)
 
 ### 2023
-- Local committee ML4CPS Conference 2023, Hamburg: [link](https://www.hsu-hh.de/imb/en/ml4cps)
+- Local Committee ML4CPS Conference 2023, Hamburg: [link](https://www.hsu-hh.de/imb/en/ml4cps)
 
 
 # Teaching
