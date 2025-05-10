@@ -11,7 +11,7 @@ background: '/img/bg-index.jpg'
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
       <h1 class="font-weight-bold mb-4 serif-font">Hi, my name is Jonas ... </h1>
-      <p class="lead mb-4">... I'm a PhD student and working in Artificial Intelligence for Cyber-Physical Systems at Helmut-Schmidt University.</p>
+      <p class="lead mb-4">... I'm a PhD student working on applied Artificial Intelligence for Cyber-Physical Systems at Helmut-Schmidt University.</p>
       <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
@@ -33,7 +33,7 @@ background: '/img/bg-index.jpg'
 
 
     {% for page in site.pages %}
-    {% if page.url contains '/publications/' or page.url contains '/teaching/' %}
+    {% if page.url contains '/publications/' or page.url contains '/teaching/' or page.url contains '/hai-cps/' or page.url contains 'contact' %}
     
     <!-- or page.url contains '/contact/' or page.url contains '/research/'%} --> <!-- or page.url contains '/contact/' %} -->
     <div class="col-md-6 mb-4">
