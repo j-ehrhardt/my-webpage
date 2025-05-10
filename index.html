@@ -26,35 +26,52 @@ background: '/img/bg-index.jpg'
 
 
 
-
 <!-- Posts List with Sidebar (except featured)
 ================================================== -->
+{% comment %}
+  1) Grab only the pages under our four paths
+  2) Sort them by the `order` field in front matter
+{% endcomment %}
+{% assign relevant_pages = site.pages
+  | where_exp: "p",
+      "p.url contains '/publications/' or
+       p.url contains '/hai-cps/' or
+       p.url contains '/teaching/' or
+       p.url contains '/contact/'" %}
+{% assign ordered_pages = relevant_pages | sort: "order" %}
+
 <section class="row">
-
-
-    {% for page in site.pages %}
-    {% if page.url contains '/publications/' or page.url contains '/teaching/' or page.url contains '/hai-cps/' or page.url contains 'contact' %}
-    
-    <!-- or page.url contains '/contact/' or page.url contains '/research/'%} --> <!-- or page.url contains '/contact/' %} -->
+  {% for page in ordered_pages %}
     <div class="col-md-6 mb-4">
       <div class="card">
         <a href="{{ page.url | absolute_url }}">
           {% if page.image %}
-          <img class="rounded mb-4" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+            <img
+              class="rounded mb-4"
+              src="{{ site.baseurl }}/{{ page.image }}"
+              alt="{{ page.title }}">
           {% endif %}
         </a>
         <div class="card-block">
-          <h2 class="card-title h4 serif-font"><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></h2>
-          <p class="card-text text-muted">{{ page.excerpt | strip_html }}</p>
+          <h2 class="card-title h4 serif-font">
+            <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+          </h2>
+          <p class="card-text text-muted">
+            {{ page.excerpt | strip_html }}
+          </p>
           <div class="metafooter">
             <div class="wrapfooter small d-flex align-items-center">
               <span class="author-meta">
-              {% if page.author %}
-              <span class="authors">{{ site.authors[page.author] }}</span>
-              {% endif %}
-              {% if page.description %}
-              <span class="description">{{ page.description | newline_to_br }}</span>
-              {% endif %}              
+                {% if page.author %}
+                  <span class="authors">
+                    {{ site.authors[page.author] }}
+                  </span>
+                {% endif %}
+                {% if page.description %}
+                  <span class="description">
+                    {{ page.description | newline_to_br }}
+                  </span>
+                {% endif %}
               </span>
               <div class="clearfix"></div>
             </div>
@@ -62,9 +79,5 @@ background: '/img/bg-index.jpg'
         </div>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
-
-
-
-</section> 
+  {% endfor %}
+</section>
