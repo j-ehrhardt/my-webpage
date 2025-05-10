@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-order: 0
+order: 1000
 permalink: "/about/"
 #image: assets/images/header-filler.png
 ---
