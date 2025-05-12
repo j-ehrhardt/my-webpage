@@ -39,7 +39,6 @@ For more information about my publications, visit my [publications page]({{site.
 ### 2025
 
 - Reviewing activity IEEE Conference on Emerging Technologies and Factory Automation 2025, Porto
-
 - Organizing Committee CAIPI'25 Workshop - AI-based Planning for Complex Real-World Applications @ ECAI 2025, Bologna: [link](https://www.hsu-hh.de/imb/en/ecai25-caipi)
 
 ### 2024
@@ -67,6 +66,7 @@ Here, you can find some information on courses I tutored. For more information, 
 
 - Labs: Data Science
 - Labs: Programming in C & Algorithms I
+- Lecture: AI Crashcourse (individual lectures of the series)
 
 ### 2023
 
