@@ -32,11 +32,8 @@ Here is an overview of the courses I tutored or taught so far:
 ### Labs: Image Processing
 
 - Fundamentals of Python
-
 - Pixel and Spatial Operations
-
 - Support Vector Machines 
-
 - Convolutional Neural Networks
 
 ## Lecture: AI Crashcourse (individual lectures from the series)
