@@ -9,19 +9,19 @@ description: "Click here to get to an overview on the courses I tutored and taug
 
 Here is an overview of the courses I tutored or taught so far:
 
-## Labs: Programming in C and Algorithms I
+### Labs: Programming in C and Algorithms I
 
 - Fundamentals of Programming in C
 - Sorting Algorithms
 - Shortest Path Finding Algorithms
 
-## Labs: Embedded Systems
+### Labs: Embedded Systems
 
 - Fundamentals of Programming in C
 - Fundamentals of Programming in Unix
 - Processes, Sockets, Alarms, etc.
 
-## Labs: Data Science
+### Labs: Data Science
 
 - Fundamentals of Python
 - Descriptive Data Analysis
@@ -36,7 +36,9 @@ Here is an overview of the courses I tutored or taught so far:
 - Support Vector Machines 
 - Convolutional Neural Networks
 
-## Lecture: AI Crashcourse (individual lectures from the series)
+
+
+### Lecture: AI Crashcourse (individual lectures from the series)
 
 - Fundamentals of Data and Big Data
 - Representation Learning and Transfer Learning
