@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HAI-CPS
-order: 2
+order: 3
 permalink: "/hai-cps/"
 image: assets/images/header-hai-cps.png
 description: This page introduces the HAI-CPPS benchmark dataset. 

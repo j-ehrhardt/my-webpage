@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-order: 4
+order: 5
 permalink: "/teaching/"
 image: assets/images/header-teaching.png
 description: "Click here to get to an overview on the courses I tutored and taught, so far." 
