@@ -38,6 +38,9 @@ For more information about my publications, visit my [publications page]({{site.
 
 ### 2025
 
+- ICAPS Tutorial on "Integrating Machine Learning and Planning as Satisfiability". [link](https://github.com/imb-hsu/icaps25-tutorial-nn-enriched-planning-with-smt)
+- Best Paper Award for “Balancing Offensive Language and Freedom of Expression in AI Speech Assistants: An Ethical and Algorithmic Perspective,” Conversations 2025, 9th International Symposium on Chatbots and Human-Centered AI. [link](https://2025.conversations.ws/best-paper-award/)
+- Deputy member of the Academic Senat at Helmut-Schmidt-University 
 - Organizing Committee CAIPI'25 Workshop - AI-based Planning for Complex Real-World Applications @ ECAI 2025, Bologna: [link](https://www.hsu-hh.de/imb/en/ecai25-caipi)
 - Program Committee, International Joint Workshop of Artificial Intelligence for Healthcare (HC@AIxIA) and HYbrid Models for Coupling Deductive and Inductive ReAsoning (HYDRA): HC@AIxIA+HYDRA 2025 @ECAI 2025: [link](https://sites.google.com/unical.it/hcaixia-hydra-2025/committees?authuser=0)
 - Reviewing activity IEEE Conference on Emerging Technologies and Factory Automation 2025, Porto: [link](https://etfa2025.ieee-ies.org/)
