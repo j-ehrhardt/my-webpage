@@ -3,7 +3,7 @@ layout: post
 title: "Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces"
 author: Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann
 categories: [ deep q-networks, offline RL, planning, parametrized actions ]
-citation: " J. Ehrhardt, J. Schmidt, R. Heesch, O. Niggemann, “Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces,” *CAIPI'25 Workshop on Planning in Complex Real-World Scenarios @ European Conference on Artificial Intelligence (ECAI), 2025*. urn:[https://ceur-ws.org/Vol-4103/paper5.pdf](https://ceur-ws.org/Vol-4103/paper5.pdf). "
+citation: " J. Ehrhardt, J. Schmidt, R. Heesch, O. Niggemann, “Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces,” CAIPI'25 Workshop on Planning in Complex Real-World Scenarios @ European Conference on Artificial Intelligence (ECAI), 2025. urn: https://ceur-ws.org/Vol-4103/paper5.pdf. "
 ---
 
 # Abstract

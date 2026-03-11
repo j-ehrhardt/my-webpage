@@ -3,7 +3,7 @@ layout: post
 title:  "The Digital Shadow: Developing a Universal Model for the Automated Optimization of Cyber-Physical Production Systems Based on Real-time Data"
 author: Jonas Ehrhardt, Christoph Hoffmann
 categories: [ Cyber-Physical Production System, Digital Shadow, Genetic Algorithm ]
-citation: "J. M. Ehrhardt and C. T. Hoffmann, “The Digital Shadow: Developing a universal model for the automated optimization of cyber-physical production systems based on real-time data,” *Procedia CIRP, vol. 93. Elsevier BV, pp. 304–310, 2020*. doi: [10.1016/j.procir.2020.03.069](https://doi.org/10.1016/j.procir.2020.03.069)."
+citation: "J. M. Ehrhardt and C. T. Hoffmann, “The Digital Shadow: Developing a universal model for the automated optimization of cyber-physical production systems based on real-time data,” Procedia CIRP, vol. 93. Elsevier BV, pp. 304–310, 2020. doi: https://doi.org/10.1016/j.procir.2020.03.069."
 ---
 
 # Abstract

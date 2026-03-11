@@ -3,7 +3,7 @@ layout: post
 title: "Design Principles for Falsifiable, Replicable, Reproducible Empiricial Machine Learning Research"
 author: Daniel Vranjes, Jonas Ehrhardt, René Heesch, Lukas Moddemann, Henrik Steude, Oliver Niggemann
 categories: [ machine learning, replicability, reproducibility ]
-citation: " D. Vranjes, J. Ehrhardt, R. Heesch, L. Moddemann, H. Steude, O. Niggemann, “Design Principles for Falsifiable, Replicable, Reproducible Empiricial Machine Learning Research,” *Conference on the Principles of Diagnosis - DX, 2024*. doi:[https://doi.org/10.4230/OASIcs.DX.2024.7](https://doi.org/10.4230/OASIcs.DX.2024.7). "
+citation: " D. Vranjes, J. Ehrhardt, R. Heesch, L. Moddemann, H. Steude, O. Niggemann, “Design Principles for Falsifiable, Replicable, Reproducible Empiricial Machine Learning Research,” Conference on the Principles of Diagnosis - DX, 2024. doi: https://doi.org/10.4230/OASIcs.DX.2024.7. "
 ---
 
 # Abstract

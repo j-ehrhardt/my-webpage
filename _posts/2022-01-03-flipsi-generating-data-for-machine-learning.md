@@ -3,7 +3,7 @@ layout: post
 title: "FliPSi: Generating Data for the Training of Machine Learning Algorithms for CPPS"
 author: Maria Krantz, Niklas Widulle, Anna Nordhausen, Artur Liebert, Jonas Ehrhardt, Sebastian Eilermann, Oliver Niggemann
 categories: [ cyber-physical system, cyber-physical production system, dataset, simulation ]
-citation: "M. Krantz et al., “FliPSi: Generating Data for the Training of Machine Learning Algorithms for CPPS,” *Annual Conference of the PHM Society, vol. 14, no. 1. PHM Society, Oct. 28, 2022*. doi: [10.36001/phmconf.2022.v14i1.3229](https://doi.org/10.36001/phmconf.2022.v14i1.3229). "
+citation: "M. Krantz et al., “FliPSi: Generating Data for the Training of Machine Learning Algorithms for CPPS,” Annual Conference of the PHM Society, vol. 14, no. 1. PHM Society, Oct. 28, 2022. doi: https://doi.org/10.36001/phmconf.2022.v14i1.3229. "
 ---
 
 # Abstract

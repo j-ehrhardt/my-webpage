@@ -3,7 +3,7 @@ layout: post
 title: "A lazy Approach to Neural Numerical Planning with Control Parameters"
 author: René Heesch, Alessandro Cimatti, Jonas Ehrhardt, Alexander Diedrich, Oliver Niggemann
 categories: [ numerical planning, satisfiability modulo theory, machine learning ]
-citation: " R. Heesch, A. Cimatti, J. Ehrhardt, A. Diedrich, O. Niggemann, “A lazy Approach to Neural Numerical Planning with Control Parameters,” *ECAI - European Conference on Artificial Intelligence, 2024*. doi:[10.3233/FAIA241000](https://doi.org/10.3233/FAIA241000). "
+citation: " R. Heesch, A. Cimatti, J. Ehrhardt, A. Diedrich, O. Niggemann, “A lazy Approach to Neural Numerical Planning with Control Parameters,” ECAI - European Conference on Artificial Intelligence, 2024. doi: https://doi.org/10.3233/FAIA241000. "
 ---
 
 # Abstract

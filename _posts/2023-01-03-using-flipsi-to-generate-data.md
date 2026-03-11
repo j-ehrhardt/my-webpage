@@ -3,7 +3,7 @@ layout: post
 title: "Using FliPSi to Generate Data for Machine Learning Algorithms"
 author: Artur Liebert, Christian Wittke, Jonas Ehrhardt, Richard Jaufmann, Niklas Widulle, Sebastian Eilermann, Maria Krantz, Oliver Niggemann
 categories: [ cyber-physical system, cyber-physical production system, machine learning ]
-citation: " A. Liebert, C. Wittke, J. Ehrhardt, R. Jaufmann, N. Widulle, S. Eilermann, M. Krantz, O. Niggemann, “Using FliPSi to Generate Data for Machine Learning Algorithms,” *ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2023*. doi:[10.1109/ETFA54631.2023.10275500](http://dx.doi.org/10.1109/ETFA54631.2023.10275500). "
+citation: " A. Liebert, C. Wittke, J. Ehrhardt, R. Jaufmann, N. Widulle, S. Eilermann, M. Krantz, O. Niggemann, “Using FliPSi to Generate Data for Machine Learning Algorithms,” ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2023. doi: https://doi.org/10.1109/ETFA54631.2023.10275500. "
 ---
 
 # Abstract

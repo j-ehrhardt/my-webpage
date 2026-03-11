@@ -3,7 +3,7 @@ layout: post
 title: "The HAI-CPPS Benchmark: Evaluating AI Capabilities Across Hybrid Data Spaces"
 author: Lukas Moddemann, Jonas Ehrhardt, Alexander Diedrich, Oliver Niggemann
 categories: [ machine learning, dataset, replicability, reproducibility ]
-citation: " L. Moddemann, J. Ehrhardt, A.Diedrich, O. Niggemann, “The HAI-CPPS Benchmark: Evaluating AI Capabilities Across Hybrid Data Spaces,” *ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2025*. doi:[http://dx.doi.org/10.1109/ETFA65518.2025.11205680](http://dx.doi.org/10.1109/ETFA65518.2025.11205680). "
+citation: " L. Moddemann, J. Ehrhardt, A.Diedrich, O. Niggemann, “The HAI-CPPS Benchmark: Evaluating AI Capabilities Across Hybrid Data Spaces,” ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2025. doi: https://doi.org/10.1109/ETFA65518.2025.11205680. "
 ---
 
 # Abstract

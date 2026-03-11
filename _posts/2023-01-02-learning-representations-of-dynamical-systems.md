@@ -3,7 +3,7 @@ layout: post
 title: "Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems"
 author: Jonas Ehrhardt, René Heesch, Oliver Niggemann
 categories: [cyber-physical system, planning, process planning, machine learning, disentanglement of process steps]
-citation: "Ehrhardt, J., Heesch, R., Niggemann, O. (2024). Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems. In: *Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham*. [10.1007/978-3-031-50485-3_34](https://doi.org/10.1007/978-3-031-50485-3_34)."
+citation: "Ehrhardt, J., Heesch, R., Niggemann, O. (2024). Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems. In: Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham. doi: https://doi.org/10.1007/978-3-031-50485-3_34."
 ---
 
 

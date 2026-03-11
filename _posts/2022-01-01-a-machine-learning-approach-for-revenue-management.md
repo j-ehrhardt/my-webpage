@@ -3,7 +3,7 @@ layout: post
 title: "A Machine Learning Approach for Revenue Management in Cloud Manufacturing"
 author: Vincent Adomat, Jonas Ehrhardt, Christian Koper, Maryam Ahanpanjeh, Jens Wulfsberg
 categories: [ machine learning, revenue management, cloud manufacturing, operations research ]
-citation: "V. Adomat, J. Ehrhardt, C. Kober, M. Ahanpanjeh, and J. P. Wulfsberg, “A Machine Learning Approach for Revenue Management in Cloud Manufacturing,” *Procedia CIRP, vol. 118. Elsevier BV, pp. 342–347, 2023*. doi: [10.1016/j.procir.2023.06.059](https://doi.org/10.1016/j.procir.2023.06.059). "
+citation: "V. Adomat, J. Ehrhardt, C. Kober, M. Ahanpanjeh, and J. P. Wulfsberg, “A Machine Learning Approach for Revenue Management in Cloud Manufacturing,” Procedia CIRP, vol. 118. Elsevier BV, pp. 342–347, 2023. doi: https://doi.org/10.1016/j.procir.2023.06.059. "
 ---
 
 # Abstract

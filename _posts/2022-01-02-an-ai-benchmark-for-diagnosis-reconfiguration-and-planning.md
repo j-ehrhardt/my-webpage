@@ -3,7 +3,7 @@ layout: post
 title: "An AI benchmark for Diagnosis, Reconfiguration & Planning"
 author: Jonas Ehrhardt, Malte Ramonat, René Heesch, Kaka Balzereit, Alexander Diedrich, Oliver Niggemann
 categories: [ cyber-pyhsical systems, anomaly detection, diagnosis, reconfiguration, planning, dataset, benchmark ]
-citation: "J. Ehrhardt, M. Ramonat, R. Heesch, K. Balzereit, A. Diedrich, and O. Niggemann, “An AI benchmark for Diagnosis, Reconfiguration &amp; Planning,” *2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, Sep. 06, 2022*. doi: [10.1109/etfa52439.2022.9921546](https://doi.org/10.1109/ETFA52439.2022.9921546). "
+citation: "J. Ehrhardt, M. Ramonat, R. Heesch, K. Balzereit, A. Diedrich, and O. Niggemann, “An AI benchmark for Diagnosis, Reconfiguration &amp; Planning,” 2022 IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA). IEEE, Sep. 06, 2022. doi: https://doi.org/10.1109/ETFA52439.2022.9921546. "
 ---
 
 # Abstract

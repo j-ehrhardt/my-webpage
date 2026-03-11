@@ -3,7 +3,7 @@ layout: post
 title: "Balancing Offensive Language and Freedom of Expression in AI Speech Assistants: An Ethical and Algorithmic Perspective"
 author: Madeleine Rischer, Jonas Ehrhardt, Gerhard Schreiber
 categories: [ large language models, speech assistant, ethical considerations, algorithmic considerations ]
-citation: " M. Rischer, J. Ehrhardt, G. Schreiber, “Balancing Offensive Language and Freedom of Expression in AI Speech Assistants: An Ethical and Algorithmic Perspective,” *Conversations 2025, 9th International Symposium on Chatbots and Human-Centered AI*. doi:[https://](https://). "
+citation: " M. Rischer, J. Ehrhardt, G. Schreiber, “Balancing Offensive Language and Freedom of Expression in AI Speech Assistants: An Ethical and Algorithmic Perspective,” Conversations 2025, 9th International Symposium on Chatbots and Human-Centered AI. doi: https://. "
 ---
 
 # Abstract

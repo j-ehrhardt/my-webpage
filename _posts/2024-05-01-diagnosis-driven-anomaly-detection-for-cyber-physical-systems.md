@@ -3,7 +3,7 @@ layout: post
 title: "Diagnosis Driven Anomaly Detection for Cyber-Physical Systems"
 author: Henrik Steude, Lukas Moddemann, Alexander Diedrich, Jonas Ehrhardt, Oliver Niggemann
 categories: [ cyber-physical system, cyber-physical production system, machine learning, anomaly-detection ]
-citation: " H. S. Steude, L. Moddemann, A. Diedrich, J. Ehrhardt, and O. Niggemann, “Diagnosis driven Anomaly Detection for CPS.” arXiv, 2023. doi: 10.48550/ARXIV.2311.15924.  doi:[10.48550/ARXIV.2311.15924](10.48550/ARXIV.2311.15924). "
+citation: " H. S. Steude, L. Moddemann, A. Diedrich, J. Ehrhardt, and O. Niggemann, “Diagnosis driven Anomaly Detection for CPS.” arXiv, 2023. doi: https://doi.org/10.48550/arXiv.2311.15924. "
 ---
 
 # Abstract

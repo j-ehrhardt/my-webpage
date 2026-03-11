@@ -3,7 +3,7 @@ layout: post
 title: "Creating Automatic Semantic Device Descriptions for Brownfield Industrial Robots"
 author: Jonas Ehrhardt, Anna Nordhausen, Alexander Guhl, Marcel Lewke, Constantin Hildebrandt, Oliver Niggemann
 categories: [cyber-physical system, robot, semantic device description, convolutional neural network]
-citation: "J. Ehrhardt, A. Nordhausen, Alexander Guhl, Marcel Lewke, Constantin Hildebrandt, Oliver Niggemann, “Creating Automatic Semantic Device Descriptions for Brownfield Industrial Robots,” *SAMPE Europe Conference*."
+citation: "J. Ehrhardt, A. Nordhausen, Alexander Guhl, Marcel Lewke, Constantin Hildebrandt, Oliver Niggemann, “Creating Automatic Semantic Device Descriptions for Brownfield Industrial Robots,” SAMPE Europe Conference."
 
 ---
 

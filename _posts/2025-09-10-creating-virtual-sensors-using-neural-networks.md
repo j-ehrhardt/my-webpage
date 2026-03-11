@@ -3,7 +3,7 @@ layout: post
 title: "Creating Virtual Sensors Using Neural Networks"
 author: Björn Ludwig, Jonas Ehrhardt, Oliver Niggemann
 categories: [ machine learning, sensor data, reconstruction, neural networks ]
-citation: "B. Ludwig, J. Ehrhardt, O. Niggemann, “Creating Virtual Sensors Using Neural Networks,” *ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2025*. doi:[http://dx.doi.org/10.1109/ETFA65518.2025.11205672](http://dx.doi.org/10.1109/ETFA65518.2025.11205672). "
+citation: "B. Ludwig, J. Ehrhardt, O. Niggemann, “Creating Virtual Sensors Using Neural Networks,” ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2025. doi: https://doi.org/10.1109/ETFA65518.2025.11205672. "
 ---
 
 # Abstract

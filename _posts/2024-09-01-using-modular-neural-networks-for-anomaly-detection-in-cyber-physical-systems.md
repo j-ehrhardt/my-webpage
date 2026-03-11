@@ -3,7 +3,7 @@ layout: post
 title: "Using Modular Neural Networks for Anomaly Detection in Cyber-Physical Systems"
 author: Jonas Ehrhardt, Philip Overlöper, Daniel Vranjes, Henrik Steude, Alexander Diedrich, Oliver Niggemann
 categories: [ machine learning, neural networks, anomaly detection, cyber-physical systems ]
-citation: " J. Ehrhardt, P. Overlöper, D. Vranjes, H. Steude, A. Diedrich, O. Niggemann, “Using Modular Neural Networks for Anomaly Detection in Cyber-Physical Systems,” *ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2024*. doi:[10.1109/ETFA61755.2024.10711115](https://doi.org/10.1109/ETFA61755.2024.10711115). "
+citation: " J. Ehrhardt, P. Overlöper, D. Vranjes, H. Steude, A. Diedrich, O. Niggemann, “Using Modular Neural Networks for Anomaly Detection in Cyber-Physical Systems,” ETFA - IEEE Conference on Emerging Technologies and Factory Automation, 2024. doi: https://doi.org/10.1109/ETFA61755.2024.10711115. "
 ---
 
 # Abstract

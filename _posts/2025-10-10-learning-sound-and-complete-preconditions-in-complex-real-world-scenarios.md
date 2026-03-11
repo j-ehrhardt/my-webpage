@@ -3,7 +3,7 @@ layout: post
 title: "Learning Sound and Complete Preconditions in Complex Real-World Domains"
 author: René Heesch, Björn Ludwig, Jonas Ehrhardt, Alexander Diedrich, Oliver Niggemann
 categories: [ planning, precondition learning, neuro-symbolic AI ]
-citation: " R. Heesch, B. Ludwig, J. Ehrhardt, A. Diedrich, O. Niggemann, “Learning Sound and Complete Preconditions in Complex Real-World Domains,” *CAIPI'25 Workshop on Planning in Complex Real-World Scenarios @ European Conference on Artificial Intelligence (ECAI), 2025*. urn:[https://ceur-ws.org/Vol-4103/paper6.pdf](https://ceur-ws.org/Vol-4103/paper6.pdf). "
+citation: " R. Heesch, B. Ludwig, J. Ehrhardt, A. Diedrich, O. Niggemann, “Learning Sound and Complete Preconditions in Complex Real-World Domains,” CAIPI'25 Workshop on Planning in Complex Real-World Scenarios @ European Conference on Artificial Intelligence (ECAI), 2025. urn: https://ceur-ws.org/Vol-4103/paper6.pdf. "
 ---
 
 # Abstract

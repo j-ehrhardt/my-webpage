@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Machine Learning into an SMT-based Planning Approach for Production Planning in Cyber-Physical Production Systems"
 author: René Heesch, Jonas Ehrhardt, Oliver Niggemann
 categories: [cyber-pyhsical system, planning, machine learning, satisfiability modulo theory]
-citation: "Heesch, R., Ehrhardt, J., Niggemann, O. (2024). Integrating Machine Learning into an SMT-Based Planning Approach for Production Planning in Cyber-Physical Production Systems. In: *Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham*. doi: [10.1007/978-3-031-50485-3_33](https://doi.org/10.1007/978-3-031-50485-3_33)."
+citation: "Heesch, R., Ehrhardt, J., Niggemann, O. (2024). Integrating Machine Learning into an SMT-Based Planning Approach for Production Planning in Cyber-Physical Production Systems. In: Nowaczyk, S., et al. Artificial Intelligence. ECAI 2023 International Workshops. ECAI 2023. Communications in Computer and Information Science, vol 1948. Springer, Cham. doi: https://doi.org/10.1007/978-3-031-50485-3_33."
 ---
 
 # Abstract
