@@ -17,24 +17,28 @@ Below, you can find some information on my education, experience, and recent act
 
 # Education
 
-|                                                                                                                                                                                                                                |     |                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |:---------------------------------------------------------------------------------------------------------- |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/d2/Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg/284px-Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg.png?20110209154520" alt="logo-hsu" width="50"> |     | **PhD Artificial Intelligence in Mechanical Engineering**<br/>since 2021 Helmut-Schmidt-University, Hamburg |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amsterdamuniversitylogo.svg/1920px-Amsterdamuniversitylogo.svg.png" alt="logo-uva" width="50">                                                    |     | **MSc Information Studies - Data Science**<br/>2019 - 2020 University of Amsterdam, Amsterdam              |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Universit%C3%A4t_Bayreuth.svg/1068px-Universit%C3%A4t_Bayreuth.svg.png" alt="logo-bayr" width="78">                                               |     | **MSc Business Administration and Engineering**<br/>2017 - 2019 University of Bayreuth, Bayreuth           |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Universit%C3%A4t_Bayreuth.svg/1068px-Universit%C3%A4t_Bayreuth.svg.png" alt="logo-bayr" width="78">                                               |     | **BSc Business Administration and Engineering**<br/>2013 - 2017 University of Bayreuth, Bayreuth<br/>      |
+|                                                                                                                                                                                                                                  |     |                                                                                                             |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |:----------------------------------------------------------------------------------------------------------- |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/d2/Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg/250px-Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg.png?_=20110209154520" alt="logo-hsu" width="50"> |     | **PhD Artificial Intelligence in Mechanical Engineering**<br/>since 2021 Helmut-Schmidt-University, Hamburg |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amsterdamuniversitylogo.svg/1920px-Amsterdamuniversitylogo.svg.png" alt="logo-uva" width="50">                                                      |     | **MSc Information Studies - Data Science**<br/>2019 - 2020 University of Amsterdam, Amsterdam               |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Universit%C3%A4t_Bayreuth.svg" alt="logo-bayr" width="78">                                                                                                |     | **MSc Business Administration and Engineering**<br/>2017 - 2019 University of Bayreuth, Bayreuth            |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Universit%C3%A4t_Bayreuth.svg" alt="logo-bayr" width="78">                                                                                                |     | **BSc Business Administration and Engineering**<br/>2013 - 2017 University of Bayreuth, Bayreuth<br/>       |
 
 # Work experience
 
-|                                                                                                                                                                                                                             |     |                                                                                                                      |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |:-------------------------------------------------------------------------------------------------------------------- |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/d2/Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg/284px-Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg.png?20110209154520" alt="image" width="50"> |     | **PhD Student - Artificial Intelligence in Mechanical Engineering**<br/>since 2021 Helmut-Schmidt-University, Hamburg |
-| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Universit%C3%A4t_Bayreuth.svg/1068px-Universit%C3%A4t_Bayreuth.svg.png" alt="image" width="78">                                                |     | **Student Research Assistant - Fraunhofer IPA**<br/>2015 - 2019 University of Bayreuth, Bayreuth                     |
+|                                                                                                                                                                                                                               |     |                                                                                                                       |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |:--------------------------------------------------------------------------------------------------------------------- |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/d2/Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg/250px-Logo_Helmut-Schmidt-Universit%C3%A4t_Hamburg.svg.png?_=20110209154520" alt="image" width="50"> |     | **PhD Student - Artificial Intelligence in Mechanical Engineering**<br/>since 2021 Helmut-Schmidt-University, Hamburg |
+| <img title="" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Universit%C3%A4t_Bayreuth.svg" alt="image" width="78">                                                                                                 |     | **Student Research Assistant - Fraunhofer IPA**<br/>2015 - 2019 University of Bayreuth, Bayreuth                      |
 
 # Activities
 
 Here, you can find some information on my activities in the research community.
 For more information about my publications, visit my [publications page]({{site.baseurl}}/publications/).
+
+### 2026
+
+- Program Committee "23rd International Conference on Principles of Knowledge Representation and Reasoning - KR Meets Machine Learning and Explanation Track", 2026, Lisbon: [link]([KR 2026](https://kr.org/KR2026/org_pc_kr_meets_mlx.html))
 
 ### 2025
 

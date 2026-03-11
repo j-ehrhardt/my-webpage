@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: default
-background: '/img/bg-index.jpg'
 ---
 
 <!-- Home Intro
@@ -55,21 +54,11 @@ background: '/img/bg-index.jpg'
           <p class="card-text text-muted">
             {{ page.excerpt | strip_html }}
           </p>
-          <div class="metafooter">
-            <div class="wrapfooter small d-flex align-items-center">
-              <span class="author-meta">
-                {% if page.author %}
-                  <span class="authors">{{ site.authors[page.author] }}</span>
-                {% endif %}
-                {% if page.description %}
-                  <span class="description">
-                    {{ page.description | newline_to_br }}
-                  </span>
-                {% endif %}
-              </span>
-              <div class="clearfix"></div>
-            </div>
-          </div>
+          {% if page.description %}
+          <p class="small text-muted mb-0">
+            {{ page.description | newline_to_br }}
+          </p>
+          {% endif %}
         </div>
       </div>
     </div>
