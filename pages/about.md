@@ -38,7 +38,12 @@ For more information about my publications, visit my [publications page]({{site.
 
 ### 2026
 
+- Chair of the Joint Workshop on AI Planning for Complex Real-World Applications (CAIPI) and Bridging the Gap Between AI Planning and (Reinforcement) Learning (PRL): [link](https://www.hsu-hh.de/imb/en/organized-events/ijcai-ecai-2026-caipi-prl)
+- Member of the Programm Committee at the Joint Workshop on AI Planning for Complex Real-World Applications (CAIPI) and Bridging the Gap Between AI Planning and (Reinforcement) Learning (PRL): [link](https://www.hsu-hh.de/imb/en/organized-events/ijcai-ecai-2026-caipi-prl)
+- Member of the Programm Committee of the 5th International Workshop on HYbrid Models for Coupling Deductive and Inductive ReAsoning (HYDRA): [link](https://sites.google.com/unical.it/hydra-2026/organization)
+- Member of the Programm Committee of the 5th International AIxIA Workshop on Artificial Intelligence for Healthcare: [link](https://hcaixia2026.unical.it/committees)
 - Program Committee "23rd International Conference on Principles of Knowledge Representation and Reasoning - KR Meets Machine Learning and Explanation Track", 2026, Lisbon: [link]([KR 2026](https://kr.org/KR2026/org_pc_kr_meets_mlx.html))
+- Deputy member of the Academic Senat at Helmut-Schmidt-University 
 
 ### 2025
 
@@ -65,6 +70,10 @@ For more information about my publications, visit my [publications page]({{site.
 # Teaching
 
 Here, you can find some information on courses I tutored. For more information, have a look at the [teaching page]({{site.baseurl}}/teaching/).
+
+### 2026
+
+- Labs: Programming in C & Algorithms I
 
 ### 2025
 
